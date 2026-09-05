@@ -1,0 +1,2 @@
+const bigramPattern = /[a-z][0-9]|[a-z][0-9]/g;
+
