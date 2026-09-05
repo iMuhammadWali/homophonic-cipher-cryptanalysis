@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chartjs-node-canvas": "^5.0.0"
+  },
+  "scripts": {
+    "1": "node tasks/task1.js"
+  }
+}
